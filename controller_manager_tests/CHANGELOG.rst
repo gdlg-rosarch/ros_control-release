@@ -2,11 +2,13 @@
 Changelog for package controller_manager_tests
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.13.1 (2018-03-26)
+0.14.0 (2018-03-26)
 -------------------
+* Copyright blocks.
+* Tests for extensible controllers.
+* migrate to new class list macros header
 * add tests for controller_manager scripts and nodes
-* return 0 in dummy_app main
-* Contributors: Mathias Lüdtke
+* Contributors: Mathias Lüdtke, Mike Purvis
 
 0.13.0 (2017-12-23)
 -------------------
